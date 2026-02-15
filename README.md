@@ -1,9 +1,9 @@
-# Adrià Vilanova Martínez – @avm99963
+Welcome! 🥳
 
-Welcome to my GitHub profile!
+## Useful links
 
-My repos have a new home at Gerrit:
-
-* [Gerrit – Directory of repositories](https://gerrit.avm99963.com/plugins/gitiles/)
-
-Under my Github username you'll see clones/mirrors of those repos, as well as forks I use to collaborate with other open-source projects here at GitHub, and some old repos I haven't migrated to Gerrit.
+| Link | Description |
+|---|---|
+| [avm99963.com](https://www.avm99963.com/) | My website. |
+| [Gerrit](https://gerrit.avm99963.com/plugins/gitiles/) | My personal git server. It contains all of my projects (some might be missing in GitHub, others are mirrored). |
+| [GitHub forks](https://github.com/avm99963-forks) | Organization where I will host my GitHub forks from now on. |
